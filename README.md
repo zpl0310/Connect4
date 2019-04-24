@@ -1,5 +1,6 @@
 # Connect4
 An interactive application allowing two players to compete with each other or to play against AI
+![alt text](https://github.com/zpl0310/Connect4/blob/master/connect.png)
 
 
 Basic Features:
